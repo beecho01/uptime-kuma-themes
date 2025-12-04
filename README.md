@@ -5,7 +5,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=flat&logo=uptime-kuma&logoColor=white)](https://github.com/louislam/uptime-kuma)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
 A collection of beautiful, customizable themes and layouts for [Uptime Kuma](https://github.com/louislam/uptime-kuma) status pages.
 
