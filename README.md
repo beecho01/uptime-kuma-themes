@@ -16,14 +16,28 @@ A collection of beautiful, customizable themes and layouts for [Uptime Kuma](htt
 
 ## Themes
 
-| | | | |
-|---|---|---|---|
-| [Gruvbox](#gruvbox) | [Catppuccin](#catppuccin) | [Nord](#nord) | [Dracula](#dracula) |
-| [Solarized](#solarized) | [Tokyo Night](#tokyo-night) | [One Dark Pro](#one-dark-pro) | [Monokai](#monokai) |
-| [Ayu](#ayu) | [Palenight](#palenight) | [Synthwave '84](#synthwave-84) | [Everforest](#everforest) |
-| [Kanagawa](#kanagawa) | [Rosé Pine](#rosé-pine) | [Modus Vivendi](#modus-vivendi) | [GitHub Dark](#github-dark) |
-| [Night Owl](#night-owl) | [Horizon](#horizon) | [One Light](#one-light) | [Moonlight](#moonlight) |
-| [Lumina](#lumina) | | | |
+- Themes
+  - [Gruvbox](#gruvbox)
+  - [Catppuccin](#catppuccin)
+  - [Nord](#nord)
+  - [Dracula](#dracula)
+  - [Solarized](#solarized)
+  - [Tokyo Night](#tokyo-night)
+  - [One Dark Pro](#one-dark-pro)
+  - [Monokai](#monokai)
+  - [Ayu](#ayu)
+  - [Palenight](#palenight)
+  - [Synthwave '84](#synthwave-84)
+  - [Everforest](#everforest)
+  - [Kanagawa](#kanagawa)
+  - [Rosé Pine](#rosé-pine)
+  - [Modus Vivendi](#modus-vivendi)
+  - [GitHub Dark](#github-dark)
+  - [Night Owl](#night-owl)
+  - [Horizon](#horizon)
+  - [One Light](#one-light)
+  - [Moonlight](#moonlight)
+  - [Lumina](#lumina)
 
 ---
 
