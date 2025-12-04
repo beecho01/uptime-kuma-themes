@@ -19,10 +19,12 @@ A collection of beautiful, customizable themes and layouts for [Uptime Kuma](htt
 ### Applying a Theme
 
 1. Open your Uptime Kuma dashboard
-2. Go to **Settings** → **Appearance** → **Custom CSS**
-3. Copy the contents of your chosen theme from `themes/<theme-name>/index.css`
-4. Paste it into the Custom CSS field
-5. Save
+2. Go to **Status Pages** and select a status page
+3. Click the **Edit Status Page** button
+4. Scroll down to the **Custom CSS** section
+5. Copy the contents of your chosen theme from `themes/<theme-name>/index.css`
+6. Paste it into the Custom CSS field
+7. Save
 
 ### Combining Theme + Layout
 
