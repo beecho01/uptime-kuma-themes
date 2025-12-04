@@ -8,7 +8,9 @@
     "server:dev": "bun --watch run server/index.ts",
     "docker:up": "docker compose up -d",
     "docker:down": "docker compose down",
-    "dev": "bun run server:dev & bun run docker:up"
+    "dev": "bun run docker:up && bun run server:dev ",
+    "db:seed": "bun run migrations/001_seed_monitors.ts",
+    "db:seed:force": "bun run migrations/001_seed_monitors.ts --force"
   },
   "devDependencies": {
     "@types/bun": "latest"
